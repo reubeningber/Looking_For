@@ -271,3 +271,9 @@ IMG.ri_monogram {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 10px }
+
+p.about_me {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
