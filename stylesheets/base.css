@@ -278,6 +278,12 @@ IMG.ri_monogram {
     margin-right: auto;
     width: 6em
 }
+a.about_me {
+	color:white;
+}
+a.hover.about_me {
+	color: #41abff;
+}
 
 IMG.reuben_circle_small {
   float:left; 
