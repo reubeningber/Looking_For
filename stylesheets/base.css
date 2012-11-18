@@ -278,10 +278,10 @@ IMG.ri_monogram {
     margin-right: auto;
     font-size: 18px;
 }
-a.about_me {
+.about_me a {
 	color:white;
 }
-a.hover.about_me {
+.about_me a:hover {
 	color: #41abff;
 }
 
