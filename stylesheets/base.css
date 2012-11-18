@@ -274,7 +274,6 @@ IMG.ri_monogram {
 
 .about_me {
 	color: white;
-    padding-top: 25em;
     margin-left: auto;
     margin-right: auto;
     width: auto;
@@ -287,7 +286,7 @@ IMG.ri_monogram {
 	color: #41abff;
 }
 
-IMG.reuben_circle_small {
+.reuben_circle_small {
   float:left; 
   margin-right: .5em;
 
